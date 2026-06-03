@@ -1,0 +1,9 @@
+Farmer,Year,Crop,Farm_Size_Ha,Yield_Kg,Revenue
+John,2023,Maize,5,10000,2500000
+John,2024,Maize,5,12000,3000000
+Ngozi,2023,Rice,4,8000,2200000
+Ngozi,2024,Rice,4,9500,2600000
+Musa,2023,Cassava,6,15000,2700000
+Musa,2024,Cassava,6,14500,2650000
+Amina,2023,Soybean,3,7000,1800000
+Amina,2024,Soybean,3,8500,2200000
