@@ -163,6 +163,7 @@ plt.subplot(1,2,2)
 df.groupby("Farmer")["Revenue_per_Ha"].mean().plot(kind="bar")
 plt.title("Land-use Efficiency Ranking")
 plt.show()
+plt.savefig("revenue_&_efficiency.png")
 
 # %% [markdown]
 # ### Step 09: Recommendation
